@@ -56,7 +56,7 @@
       "test": "./test.sh"
   },
   "optionalDependencies":{
-    "bson":"0.2.x"
+    "bson":"1.0.x"
   },
   "devDependencies": {
 	"csv": "0.3.x",
